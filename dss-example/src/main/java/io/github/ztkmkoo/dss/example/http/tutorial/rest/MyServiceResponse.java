@@ -1,4 +1,4 @@
-package io.github.ztkmkoo.dss.example.http.tutorial;
+package io.github.ztkmkoo.dss.example.http.tutorial.rest;
 
 import io.github.ztkmkoo.dss.core.actor.rest.entity.DssRestServiceResponse;
 

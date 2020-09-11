@@ -1,4 +1,4 @@
-package io.github.ztkmkoo.dss.example.http.tutorial;
+package io.github.ztkmkoo.dss.example.http.tutorial.rest;
 
 import java.io.Serializable;
 

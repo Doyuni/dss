@@ -16,7 +16,11 @@
     <name>DSS EXAMPLE</name>
     <description>Distributed server system</description>
     <url>https://github.com/ztkmkoo/dss</url>
-    
+
+    <properties>
+        <jetty.version>9.4.14.v20181114</jetty.version>
+    </properties>
+
     <dependencies>
     	<dependency>
     		<groupId>${project.groupId}</groupId>
@@ -25,5 +29,16 @@
     		<type>jar</type>
            	<scope>compile</scope>
 		</dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty.websocket</groupId>
+            <artifactId>websocket-api</artifactId>
+            <version>${jetty.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty.websocket</groupId>
+            <artifactId>websocket-client</artifactId>
+            <version>${jetty.version}</version>
+        </dependency>
+
     </dependencies>
 </project>
