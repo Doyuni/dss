@@ -1,4 +1,4 @@
-package io.github.ztkmkoo.dss.example.http.tutorial.websocket;
+package io.github.ztkmkoo.dss.example.http.websocket;
 
 import org.eclipse.jetty.websocket.api.Session;
 import org.eclipse.jetty.websocket.api.WebSocketAdapter;

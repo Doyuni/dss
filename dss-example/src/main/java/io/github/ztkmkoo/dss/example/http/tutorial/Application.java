@@ -1,4 +1,4 @@
-package io.github.ztkmkoo.dss.example.http.tutorial.rest;
+package io.github.ztkmkoo.dss.example.http.tutorial;
 
 import io.github.ztkmkoo.dss.server.rest.DssRestServer;
 

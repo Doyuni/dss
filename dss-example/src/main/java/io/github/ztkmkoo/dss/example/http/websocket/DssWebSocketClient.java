@@ -1,4 +1,4 @@
-package io.github.ztkmkoo.dss.example.http.tutorial.websocket;
+package io.github.ztkmkoo.dss.example.http.websocket;
 
 import java.net.URI;
 import java.util.concurrent.Future;
